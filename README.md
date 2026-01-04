@@ -6,7 +6,7 @@ This repository contains the source code for the paper:
 ## Files
 - train.py: Training script for the multi-task model
 - eval.py: Evaluation / inference script
-- fashion_hydra_weighted_best.pth: Trained model checkpoint
+- fashion_hydra_weighted_best.pth: Trained model checkpoint (hosted externally)
 
 ## Requirements
 - Python 3.8+
@@ -36,4 +36,5 @@ The example image shown in the paper (e.g., public figure image) is used
 for illustrative purposes only.
 
 It is NOT included in the training or evaluation datasets.
+
 
