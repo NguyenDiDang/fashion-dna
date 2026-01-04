@@ -16,6 +16,12 @@ This repository contains the source code for the paper:
 ## Dataset
 - Fashion Product Images (Small) – Kaggle (2019)  
 https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small
+## Pretrained Model
+
+Due to GitHub file size limits, the trained model checkpoint is hosted on Google Drive.
+
+- fashion_hydra_weighted_best.pth  
+  [https://drive.google.com/xxxxxxxx](https://drive.google.com/drive/folders/1vaDP8p5yhxmp3AdRIkWkuh_CrAAz0Y2s?usp=sharing)
 
 ## Training
 The model was trained using weighted loss functions to handle class imbalance.
@@ -30,3 +36,4 @@ The example image shown in the paper (e.g., public figure image) is used
 for illustrative purposes only.
 
 It is NOT included in the training or evaluation datasets.
+
